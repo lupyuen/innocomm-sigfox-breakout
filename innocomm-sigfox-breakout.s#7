@@ -1786,20 +1786,24 @@ WSSFM10R H/W Design Guide</text>
 <attribute name="MPN" x="134.62" y="68.58" size="1.778" layer="96" display="off"/>
 <attribute name="URL" x="134.62" y="68.58" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="RF1" gate="G$1" x="217.678" y="101.6">
+<instance part="RF1" gate="G$1" x="217.678" y="101.6" smashed="yes">
 <attribute name="DESCRIPTION" x="217.678" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="MANUFACTURER" x="217.678" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="SKU" x="217.678" y="101.6" size="1.778" layer="96" display="off"/>
+<attribute name="NAME" x="215.392" y="107.696" size="1.27" layer="95"/>
+<attribute name="VALUE" x="215.138" y="95.504" size="1.27" layer="96" align="top-left"/>
 </instance>
 <instance part="C1" gate="G$1" x="127" y="121.92" rot="R90">
 <attribute name="DESCRIPTION" x="127" y="121.92" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MANUFACTURER" x="127" y="121.92" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="SKU" x="127" y="121.92" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
-<instance part="C2" gate="G$1" x="139.7" y="121.92" rot="R270">
+<instance part="C2" gate="G$1" x="139.7" y="121.92" smashed="yes" rot="R270">
 <attribute name="SKU" x="139.7" y="121.92" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="DESCRIPTION" x="139.7" y="121.92" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="MANUFACTURER" x="139.7" y="121.92" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="NAME" x="137.414" y="119.634" size="1.27" layer="95" ratio="10" rot="R270"/>
+<attribute name="VALUE" x="143.51" y="115.57" size="1.27" layer="96" ratio="10" rot="R270" align="bottom-right"/>
 </instance>
 <instance part="BREADBRD1" gate="G$1" x="127" y="15.24"/>
 <instance part="GND1" gate="1" x="127" y="109.22"/>

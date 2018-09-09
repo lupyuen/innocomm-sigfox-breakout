@@ -1677,7 +1677,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </class>
 </classes>
 <parts>
-<part name="U1" library="innocomm-sigfox-breakout" deviceset="INNOCOMM-SN10-12" device="INNOCOMM-SN10-12">
+<part name="U1" library="innocomm-sigfox-breakout" deviceset="INNOCOMM-SN10-12" device="INNOCOMM-SN10-12" value="SN10-12">
 <attribute name="DESCRIPTION" value="SIGFOX module for Zone 2 / Zone 4"/>
 <attribute name="MANUFACTURER" value="InnoComm"/>
 <attribute name="MPN" value="SN10-12"/>

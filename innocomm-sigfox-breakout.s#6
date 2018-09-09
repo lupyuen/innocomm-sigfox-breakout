@@ -2066,7 +2066,7 @@ WSSFM10R H/W Design Guide</text>
 <wire x1="193.04" y1="101.6" x2="199.39" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="193.04" y1="101.6" x2="193.04" y2="99.06" width="0.1524" layer="91"/>
 <junction x="193.04" y="101.6"/>
-<label x="190.754" y="102.616" size="1.778" layer="95"/>
+<label x="190.754" y="102.616" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="RF" class="0">
@@ -2074,7 +2074,7 @@ WSSFM10R H/W Design Guide</text>
 <pinref part="R1" gate="G$1" pin="2"/>
 <pinref part="RF1" gate="G$1" pin="D"/>
 <wire x1="207.01" y1="101.6" x2="210.058" y2="101.6" width="0.1524" layer="91"/>
-<label x="207.01" y="102.108" size="1.778" layer="95"/>
+<label x="207.01" y="102.108" size="1.27" layer="95"/>
 </segment>
 </net>
 </nets>

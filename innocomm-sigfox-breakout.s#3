@@ -1829,8 +1829,8 @@ WSSFM10R H/W Design Guide</text>
 <attribute name="DESCRIPTION" x="193.04" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="SKU" x="193.04" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="MANUFACTURER" x="193.04" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
-<attribute name="NAME" x="194.31" y="96.52" size="1.27" layer="95" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="190.5" y="96.52" size="0.762" layer="96" ratio="10" rot="R270"/>
+<attribute name="NAME" x="194.564" y="91.948" size="1.27" layer="95" ratio="10"/>
+<attribute name="VALUE" x="194.564" y="90.678" size="0.762" layer="96" ratio="10"/>
 </instance>
 <instance part="GND7" gate="1" x="101.6" y="35.56"/>
 <instance part="J1" gate="G$1" x="63.5" y="137.16"/>

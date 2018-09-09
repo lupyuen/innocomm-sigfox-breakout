@@ -1,6 +1,6 @@
 Partlist
 
-Exported from innocomm-sigfox-breakout.brd at 9/9/18 6:56 PM
+Exported from innocomm-sigfox-breakout.brd at 9/9/18 10:39 PM
 
 EAGLE Version 9.1.0 Copyright (c) 1988-2018 Autodesk, Inc.
 
@@ -16,4 +16,4 @@ J2       4 x Plated Holes                      1X04                     SparkFun
 L1       47NH / LQW15AN47NJ00D / 303010107     L0402                    Seeed-Inductor           (1050 589)            R270
 R1       0R / RC0402JR-070RL / 301010000       R0402                    Seeed-Resistor           (985 690)             R180
 RF1      U-FL / ??? / 320110048                U-FL3P-SMD-2.6X2.6X1.0MM Seeed-Connector          (985 840)             R90
-U1                                             INNOCOMM-SN10-12         innocomm-sigfox-breakout (269.38755 103.29651) R0
+U1       SN10-12                               INNOCOMM-SN10-12         innocomm-sigfox-breakout (269.38755 103.29651) R0

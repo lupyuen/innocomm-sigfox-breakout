@@ -1790,8 +1790,8 @@ WSSFM10R H/W Design Guide</text>
 <attribute name="DESCRIPTION" x="217.678" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="MANUFACTURER" x="217.678" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="SKU" x="217.678" y="101.6" size="1.778" layer="96" display="off"/>
-<attribute name="NAME" x="215.392" y="107.696" size="1.27" layer="95"/>
-<attribute name="VALUE" x="215.138" y="95.504" size="1.27" layer="96" align="top-left"/>
+<attribute name="NAME" x="215.9" y="107.442" size="1.27" layer="95"/>
+<attribute name="VALUE" x="221.234" y="101.854" size="1.016" layer="96" align="top-left"/>
 </instance>
 <instance part="C1" gate="G$1" x="127" y="121.92" rot="R90">
 <attribute name="DESCRIPTION" x="127" y="121.92" size="1.778" layer="96" rot="R90" display="off"/>
@@ -1811,15 +1811,19 @@ WSSFM10R H/W Design Guide</text>
 <instance part="GND4" gate="1" x="101.6" y="53.34"/>
 <instance part="GND5" gate="1" x="101.6" y="68.58"/>
 <instance part="GND6" gate="1" x="101.6" y="88.9"/>
-<instance part="C3" gate="G$1" x="185.42" y="101.6">
+<instance part="C3" gate="G$1" x="185.42" y="101.6" smashed="yes">
 <attribute name="DESCRIPTION" x="185.42" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="MANUFACTURER" x="185.42" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="SKU" x="185.42" y="101.6" size="1.778" layer="96" display="off"/>
+<attribute name="NAME" x="181.61" y="102.87" size="1.27" layer="95" ratio="10"/>
+<attribute name="VALUE" x="181.61" y="99.06" size="1.016" layer="96" ratio="10"/>
 </instance>
-<instance part="R1" gate="G$1" x="203.2" y="101.6">
+<instance part="R1" gate="G$1" x="203.2" y="101.6" smashed="yes">
 <attribute name="DESCRIPTION" x="203.2" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="MANUFACTURER" x="203.2" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="SKU" x="203.2" y="101.6" size="1.778" layer="96" display="off"/>
+<attribute name="NAME" x="199.39" y="102.87" size="1.27" layer="95" ratio="10"/>
+<attribute name="VALUE" x="201.168" y="92.202" size="1.016" layer="96" ratio="10"/>
 </instance>
 <instance part="L1" gate="G$1" x="193.04" y="93.98" rot="R270">
 <attribute name="DESCRIPTION" x="193.04" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>

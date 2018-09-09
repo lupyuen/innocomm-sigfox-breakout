@@ -1791,7 +1791,7 @@ WSSFM10R H/W Design Guide</text>
 <attribute name="MANUFACTURER" x="217.678" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="SKU" x="217.678" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="215.9" y="107.442" size="1.27" layer="95"/>
-<attribute name="VALUE" x="221.234" y="101.854" size="1.016" layer="96" align="top-left"/>
+<attribute name="VALUE" x="221.234" y="106.68" size="1.016" layer="96" align="top-left"/>
 </instance>
 <instance part="C1" gate="G$1" x="127" y="121.92" rot="R90">
 <attribute name="DESCRIPTION" x="127" y="121.92" size="1.778" layer="96" rot="R90" display="off"/>
@@ -1815,20 +1815,22 @@ WSSFM10R H/W Design Guide</text>
 <attribute name="DESCRIPTION" x="185.42" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="MANUFACTURER" x="185.42" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="SKU" x="185.42" y="101.6" size="1.778" layer="96" display="off"/>
-<attribute name="NAME" x="181.61" y="102.87" size="1.27" layer="95" ratio="10"/>
-<attribute name="VALUE" x="181.61" y="99.06" size="1.016" layer="96" ratio="10"/>
+<attribute name="NAME" x="181.356" y="104.394" size="1.27" layer="95" ratio="10"/>
+<attribute name="VALUE" x="181.356" y="103.124" size="1.016" layer="96" ratio="10"/>
 </instance>
 <instance part="R1" gate="G$1" x="203.2" y="101.6" smashed="yes">
 <attribute name="DESCRIPTION" x="203.2" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="MANUFACTURER" x="203.2" y="101.6" size="1.778" layer="96" display="off"/>
 <attribute name="SKU" x="203.2" y="101.6" size="1.778" layer="96" display="off"/>
-<attribute name="NAME" x="199.39" y="102.87" size="1.27" layer="95" ratio="10"/>
-<attribute name="VALUE" x="201.168" y="92.202" size="1.016" layer="96" ratio="10"/>
+<attribute name="NAME" x="202.184" y="98.552" size="1.27" layer="95" ratio="10"/>
+<attribute name="VALUE" x="202.184" y="97.282" size="1.016" layer="96" ratio="10"/>
 </instance>
-<instance part="L1" gate="G$1" x="193.04" y="93.98" rot="R270">
+<instance part="L1" gate="G$1" x="193.04" y="93.98" smashed="yes" rot="R270">
 <attribute name="DESCRIPTION" x="193.04" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="SKU" x="193.04" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="MANUFACTURER" x="193.04" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="NAME" x="194.31" y="96.52" size="1.27" layer="95" ratio="10" rot="R270"/>
+<attribute name="VALUE" x="190.5" y="96.52" size="0.762" layer="96" ratio="10" rot="R270"/>
 </instance>
 <instance part="GND7" gate="1" x="101.6" y="35.56"/>
 <instance part="J1" gate="G$1" x="63.5" y="137.16"/>
@@ -2070,7 +2072,7 @@ WSSFM10R H/W Design Guide</text>
 <wire x1="193.04" y1="101.6" x2="199.39" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="193.04" y1="101.6" x2="193.04" y2="99.06" width="0.1524" layer="91"/>
 <junction x="193.04" y="101.6"/>
-<label x="190.754" y="102.616" size="1.27" layer="95"/>
+<label x="195.58" y="100.33" size="0.762" layer="95"/>
 </segment>
 </net>
 <net name="RF" class="0">
@@ -2078,7 +2080,7 @@ WSSFM10R H/W Design Guide</text>
 <pinref part="R1" gate="G$1" pin="2"/>
 <pinref part="RF1" gate="G$1" pin="D"/>
 <wire x1="207.01" y1="101.6" x2="210.058" y2="101.6" width="0.1524" layer="91"/>
-<label x="207.01" y="102.108" size="1.27" layer="95"/>
+<label x="208.026" y="100.33" size="0.762" layer="95"/>
 </segment>
 </net>
 </nets>

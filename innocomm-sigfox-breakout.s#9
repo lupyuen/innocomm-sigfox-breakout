@@ -1683,7 +1683,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="MPN" value="SN10-12"/>
 <attribute name="URL" value="https://www.arrow.com/zh-cn/products/sn10-12/innocomm-mobile-technology-corporation"/>
 </part>
-<part name="RF1" library="Seeed-Connector" deviceset="ANTENNA-CONN-U-FL(3P)" device="" value="U-FL">
+<part name="RF1" library="Seeed-Connector" deviceset="ANTENNA-CONN-U-FL(3P)" device="" value="U-FL / ??? / 320110048">
 <attribute name="DESCRIPTION" value="SMD U-FL Female CONN-Gold;3P-L2.6*W2.6*H1.25mm"/>
 <attribute name="MANUFACTURER" value="I-PEX"/>
 <attribute name="SKU" value="320110048"/>
@@ -1710,13 +1710,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="MANUFACTURER" value="YAGEO"/>
 <attribute name="SKU" value="302010012"/>
 </part>
-<part name="R1" library="Seeed-Resistor" deviceset="SMD-RES-0R-5%-1/16W(0402)" device="" value="0R">
+<part name="R1" library="Seeed-Resistor" deviceset="SMD-RES-0R-5%-1/16W(0402)" device="" value="0R / RC0402JR-070RL / 301010000">
 <attribute name="DESCRIPTION" value="SMD RES 0R-5%-1/16W"/>
 <attribute name="MANUFACTURER" value="YAGEO"/>
 <attribute name="SKU" value="301010000"/>
 </part>
-<part name="L1" library="Seeed-Inductor" deviceset="SMD-INDUCTOR-15NH-5%-300MA(0402)" device="" value="47NH">
+<part name="L1" library="Seeed-Inductor" deviceset="SMD-INDUCTOR-15NH-5%-300MA(0402)" device="" value="47NH / LQW15AN47NJ00D / 303010107">
 <attribute name="DESCRIPTION" value="SMD Inductor;47nH-5%-210mA-0402"/>
+<attribute name="MANUFACTURER" value="Murata"/>
 <attribute name="MPN" value="LQW15AN47NJ00D"/>
 <attribute name="SKU" value="303010107"/>
 </part>
@@ -1819,6 +1820,7 @@ WSSFM10R H/W Design Guide</text>
 <instance part="L1" gate="G$1" x="193.04" y="93.98" rot="R270">
 <attribute name="DESCRIPTION" x="193.04" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="SKU" x="193.04" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MANUFACTURER" x="193.04" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="GND7" gate="1" x="101.6" y="35.56"/>
 <instance part="J1" gate="G$1" x="63.5" y="137.16"/>

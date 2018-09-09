@@ -1688,12 +1688,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="MANUFACTURER" value="I-PEX"/>
 <attribute name="SKU" value="320110048"/>
 </part>
-<part name="C1" library="Seeed-Capacitor" deviceset="CERAMIC-33PF-50V-5%-NPO(0402)" device="" value="33pf">
+<part name="C1" library="Seeed-Capacitor" deviceset="CERAMIC-33PF-50V-5%-NPO(0402)" device="" value="33pf / CC0402JRNPO9BN330 / 302010000">
 <attribute name="DESCRIPTION" value="SMD CAP Ceramic 33pF-50V-5%-NPO"/>
 <attribute name="MANUFACTURER" value="YAGEO"/>
 <attribute name="SKU" value="302010000"/>
 </part>
-<part name="C2" library="Seeed-Capacitor" deviceset="TANTALUM-SMD-47UF-6.3V(AVX-A)" device="" value="47uf">
+<part name="C2" library="Seeed-Capacitor" deviceset="TANTALUM-SMD-47UF-6.3V(AVX-A)" device="" value="47uf / TAJC476K006RNJ / 302020005">
 <attribute name="DESCRIPTION" value="SMD CAP Tantalum 47uF-6.3V"/>
 <attribute name="MANUFACTURER" value="AVX"/>
 <attribute name="MPN" value="TAJC476K006RNJ"/>
@@ -1705,7 +1705,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND4" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND5" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND6" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="C3" library="Seeed-Capacitor" deviceset="CERAMIC-100PF-50V-5%-NPO(0402)" device="" value="100pf">
+<part name="C3" library="Seeed-Capacitor" deviceset="CERAMIC-100PF-50V-5%-NPO(0402)" device="" value="100pf / CC0402JRNPO9BN101 / 302010012">
 <attribute name="DESCRIPTION" value="SMD CAP Ceramic 100pF-50V-5%-NPO"/>
 <attribute name="MANUFACTURER" value="YAGEO"/>
 <attribute name="SKU" value="302010012"/>
