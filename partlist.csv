@@ -1,0 +1,19 @@
+Partlist
+
+Exported from innocomm-sigfox-breakout.brd at 9/9/18 6:56 PM
+
+EAGLE Version 9.1.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                                 Package                  Library                  Position (mil)        Orientation
+
+C1       33pf / CC0402JRNPO9BN330 / 302010000  C0402                    Seeed-Capacitor          (207.97195 624.87279) R0
+C2       47uf / TAJC476K006RNJ / 302020005     AVX-A                    Seeed-Capacitor          (115 655.66708)       R90
+C3       100pf / CC0402JRNPO9BN101 / 302010012 C0402                    Seeed-Capacitor          (967 607)             R90
+J1       4 x Plated Holes                      1X04                     SparkFun-Connectors      (115 130)             R90
+J2       4 x Plated Holes                      1X04                     SparkFun-Connectors      (1015 130)            R90
+L1       47NH / LQW15AN47NJ00D / 303010107     L0402                    Seeed-Inductor           (1050 589)            R270
+R1       0R / RC0402JR-070RL / 301010000       R0402                    Seeed-Resistor           (985 690)             R180
+RF1      U-FL / ??? / 320110048                U-FL3P-SMD-2.6X2.6X1.0MM Seeed-Connector          (985 840)             R90
+U1                                             INNOCOMM-SN10-12         innocomm-sigfox-breakout (269.38755 103.29651) R0
